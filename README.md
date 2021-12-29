@@ -1,4 +1,4 @@
-# Gold-Chain
+# 🏆 Goldchain
 Node based blockchain powering the economy of the Story Pro ecosystem.
 
 ### Features
