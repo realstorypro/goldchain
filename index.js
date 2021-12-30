@@ -7,7 +7,7 @@ const app = express();
 const blockchain = new Blockchian();
 const pubsub = new PubSub({ blockchain })
 
-setTimeout(() => pubsub.broadcastChain(), 1000);
+setTimeout(() => pubsub.broadcastChain(), 2000);
 
 app.use(bodyParser.json());
 
